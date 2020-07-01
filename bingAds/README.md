@@ -1,4 +1,4 @@
-This is Bing Ads PHP library which can be used to post Campaigns, Ads and much more via [Bing Ads API](https://docs.microsoft.com/en-us/advertising/guides/?view=bingads-13)
+This is Bing Ads PHP library for Web Applications which can be used to post Campaigns, Ads and much more via [Bing Ads API](https://docs.microsoft.com/en-us/advertising/guides/?view=bingads-13)
 
 It uses [OAuth 2.0](https://tools.ietf.org/html/rfc6749) protocol for Bing Ads API authentication.
 
